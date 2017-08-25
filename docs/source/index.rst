@@ -1,22 +1,8 @@
 Welcome to Drink Delivery Turtlebot's documentation!
 ====================================================
 
-Ever wondered how to get started with the Turtlebot in the coolest and the easiest way possible? We believe one of the best ways is to imagine a cool project using the Turtlebot - for instance, the Drink Delivery Turtlebot project.
+This project is about a Turtlebot that can deliver drinks to people by moving around carefully in a crowded place. We will make use of its sensors - the Orbbec Astra depth camera, IMU and wheel encoders. We will use an Ultrasonic sensor to let people interact with the Turtlebot and make it move away from them. This is a fun project but it sure packs a lot of technology and intelligence. 
 
-Read on to get started in the most friendliest way into the world of Turtlebots, ROS and coding.
+.. include:: contents.rst
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   
-   license
-   contact
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. _Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
